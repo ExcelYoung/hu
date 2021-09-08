@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/milk.iml" filepath="$PROJECT_DIR$/milk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/milk-api/milk-api.iml" filepath="$PROJECT_DIR$/milk-api/milk-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/milk-core/milk-core.iml" filepath="$PROJECT_DIR$/milk-core/milk-core.iml" />
+    </modules>
+  </component>
+</project>
