@@ -5,4 +5,4 @@ including mogodb, mysql, mybatis plus, dubbo, datasource, redis,
 zookeeper(as the registry center and configuration center),zkui(detail configuration)
 the sql is under the resources directory
 
-                                         by YangHuan 2021/09/08 Wednesday
+                                                                    by YangHuan 2021/09/08 Wednesday
