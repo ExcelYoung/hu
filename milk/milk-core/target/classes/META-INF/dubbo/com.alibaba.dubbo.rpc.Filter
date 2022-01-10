@@ -1,2 +1,0 @@
-MilkDubboFilter=com.drinks.milk.filter.MilkDubboFilter
-dubboExceptionFilter=com.drinks.milk.filter.DubboExceptionFilter
